@@ -1,13 +1,6 @@
-# Standard Integrations Overview
+# Overview
 
 This document covers the shared setup requirements for standard SearchLight integrations.
-
-## Available Integrations
-
-- [CRM Ingestion](crm.md)
-- [Lead Ingestion](leads.md)
-
----
 
 ## S3 Delivery Requirements
 
