@@ -1,6 +1,6 @@
-# Generic Integrations Overview
+# Standard Integrations Overview
 
-This document covers the shared setup requirements for all SearchLight data integrations.
+This document covers the shared setup requirements for standard SearchLight integrations.
 
 ## Available Integrations
 
