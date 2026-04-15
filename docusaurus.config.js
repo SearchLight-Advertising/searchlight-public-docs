@@ -10,8 +10,8 @@ const config = {
     v4: true,
   },
 
-  url: 'https://SearchLight-Advertising.github.io',
-  baseUrl: '/searchlight-public-docs/',
+  url: 'https://docs.searchlightdigital.io',
+  baseUrl: '/',
 
   organizationName: 'SearchLight-Advertising',
   projectName: 'searchlight-public-docs',
