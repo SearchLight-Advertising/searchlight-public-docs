@@ -11,7 +11,7 @@ const config = {
   },
 
   url: 'https://SearchLight-Advertising.github.io',
-  baseUrl: '/',
+  baseUrl: '/searchlight-public-docs/',
 
   organizationName: 'SearchLight-Advertising',
   projectName: 'searchlight-public-docs',
