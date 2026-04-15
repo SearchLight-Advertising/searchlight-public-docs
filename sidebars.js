@@ -3,11 +3,12 @@ const sidebars = {
     'index',
     {
       type: 'category',
-      label: 'Generic Integrations',
+      label: 'Standard Integrations',
       items: [
         'standard-integrations/overview',
         'standard-integrations/crm',
         'standard-integrations/leads',
+        'standard-integrations/calls',
       ],
     },
   ],

@@ -1,4 +1,4 @@
-# Lead Ingestion
+# Widget and Form Leads 
 
 This document defines the schema and bucket structure for lead integrations with SearchLight. For S3 setup, file format, and access steps see the [overview](overview.md).
 

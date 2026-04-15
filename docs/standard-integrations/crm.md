@@ -1,14 +1,14 @@
-# CRM Ingestion
+# CRM Activity
 
 This document defines the schema and bucket structure for CRM integrations with SearchLight. For S3 setup, file format, and access steps see the [overview](overview.md).
 
 ## Bucket Key Structure
 
 ```
-/crm/[customer|estimate|job]/{account}/{YYYY-MM-DD}/{filename}.json.gz
+/standard-crm/[customer|estimate|job]/{account}/{YYYY-MM-DD}/{filename}.json.gz
 ```
 
-Example: `crm/job/example-plumber/2026-02-19/jobs_bort.json.gz`
+Example: `standard-crm/job/example-plumber/2026-02-19/jobs_bort.json.gz`
 
 ---
 
