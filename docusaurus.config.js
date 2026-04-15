@@ -11,7 +11,7 @@ const config = {
   },
 
   url: 'https://SearchLight-Advertising.github.io',
-  baseUrl: '/searchlight-public-docs/',
+  baseUrl: '/',
 
   organizationName: 'SearchLight-Advertising',
   projectName: 'searchlight-public-docs',
@@ -53,7 +53,7 @@ const config = {
             position: 'right',
           },
           {
-            href: 'https://github.com/your-org/searchlight-public-docs',
+            href: 'https://github.com/SearchLight-Advertising/searchlight-public-docs',
             label: 'GitHub',
             position: 'right',
           },
