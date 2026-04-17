@@ -18,7 +18,7 @@ Example: `standard-lead/example-plumber/2026-02-19/leads_bort.json.gz`
 | --- | --- | --- | --- | --- |
 | `id` | string | required | Must be unique per conversion per account | `"12345"` |
 | `datetime` | string (ISO 8601) | required | Timestamp in UTC | `"2026-02-19T16:47:48.577Z"` |
-| `type` | string | required | Type of lead conversion | `"chat"`, `"form"`, `"call"` |
+| `type` | string | required | Type of lead conversion ("widget", "chat", or "form") | `"widget"` |
 | `phone_number` | string | required | Customer phone number with area code | `"123-456-7891"` |
 | `customer_name` | string | required | Full name of the customer | `"John Doe"` |
 | `email` | string | required | Customer email address | `"example@email.com"` |

@@ -1,4 +1,4 @@
-# Searchlight Documentation [BETA]
+# Searchlight Documentation
 
 [SearchLight](https://searchlightdigital.io) is a revenue intelligence platform for home service businesses — connecting marketing spend to verified CRM revenue across HVAC, plumbing, roofing, and related trades.
 
